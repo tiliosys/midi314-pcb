@@ -19,7 +19,7 @@ This repository contains the CAD files of the midi@3:14 keyboard PCB.
 They have been initially created with Kicad 5, and migrated to Kicad 6.
 
 Electronic design
-=================
+-----------------
 
 The keyboard is designed as a switch matrix using the same techniques as a typical mechanical computer keyboard.
 The main components are:
@@ -40,7 +40,7 @@ it is electrically organized as a 6&times;7 switch matrix:
 ![midi@3:14 keyboard schematic](images/schematic.svg)
 
 PCB layout
-==========
+----------
 
 The PCB measures about 28.7 cm by 9.1 cm.
 It uses two copper layers.
@@ -60,7 +60,7 @@ Here is a picture of the PCB, manufactured by a Chinese company called [Elecrow]
 ![midi@3:14 keyboard PCB, naked](images/pcb-naked.jpg)
 
 Bill of materials and cost
-==========================
+--------------------------
 
 Here is the list of parts used in this project, and the additional costs.
 I have kept the prices in the currencies that were used when ordering (US dollars and Euros).
@@ -89,7 +89,7 @@ In fact, their unit price was lower when ordering 50 and it turned out to be che
 | Potentiometer knobs                                                                                                         |                   | [Electronic Loisirs](https://electronicloisirs.com/)           |   5 |          ? |           ? |
 
 Known issues
-============
+------------
 
 * The PCB has no mounting holes. They must be drilled manually.
 * Potentiometers have been rotated by 180 degrees from their standard orientation.
